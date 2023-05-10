@@ -29,7 +29,7 @@ Prototype Pollution 취약점을 패치한 최신 버전의 xlsx를 사용하기
 ```json
 {
   "overrides": {
-    "xlsx": "https://raw.githubusercontent.com/polycube-master/xlsx/main/xlsx-0.19.4.tgz"
+    "xlsx": "https://github.com/polycube-master/xlsx-sa/raw/main/xlsx-0.19.4.tgz"
   }
 }
 ```
